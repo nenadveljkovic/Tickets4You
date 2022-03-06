@@ -1,0 +1,282 @@
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.Development.json
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.json
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.exe
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.deps.json
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.json
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.dev.json
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.pdb
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Cassandra.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Management.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csprojAssemblyReference.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfoInputs.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfo.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CoreCompileInputs.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.MvcApplicationPartsAssemblyInfo.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.Manifest.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.xml
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tickets4You.styles.css
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.input.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.output.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorCoreGenerate.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cache
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cs
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CopyComplete
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.dll
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.pdb
+N:\Projekti\Baze\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.genruntimeconfig.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.Development.json
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.json
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.exe
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.deps.json
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.json
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.dev.json
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.pdb
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Cassandra.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Management.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csprojAssemblyReference.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfoInputs.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfo.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CoreCompileInputs.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.MvcApplicationPartsAssemblyInfo.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.Manifest.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.xml
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tickets4You.styles.css
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.input.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.output.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorCoreGenerate.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CopyComplete
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.pdb
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.genruntimeconfig.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\PocetnaZaKorisnika.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\DodajRezervaciju.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.exe
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.deps.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.runtimeconfig.dev.json
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.pdb
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Cassandra.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.AssemblyInfo.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.input.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.TagHelpers.output.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorCoreGenerate.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\DodajRezervaciju.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\PocetnaZaKorisnika.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.Views.pdb
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CopyComplete
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\staticwebassets\Tickets4You.StaticWebAssets.xml
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.pdb
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.genruntimeconfig.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Tickets4You.MvcApplicationPartsAssemblyInfo.cache
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\User\Desktop\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\IzmenaRezervacije.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\IzmenaRezervacije.cshtml.g.cs
+N:\Projekti\Baze\New folder\tickets4you\Aplikacija\Tickets4You\Tickets4You\Tickets4You\obj\Debug\netcoreapp3.1\Razor\Pages\PreporuceneUtakmice.cshtml.g.cs

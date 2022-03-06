@@ -1,0 +1,97 @@
+﻿@page
+@model Tickets4You.Pages.DodajRezervacijuModel
+@{
+    ViewData["Title"] = "Dodaj Rezervaciju";
+    await Model.Korisnik();
+    await Model.Utakmica();
+    ViewData["korisnik"] = Model.LogovaniKorisnik.username;
+}
+
+<head>
+    <link href="~/css/rezervacija.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="cont">
+        <div class="container2">
+            <div class="naziv-div"><label class="datum-vreme">@Model.utakmica.datum.Day/@Model.utakmica.datum.Month/@Model.utakmica.datum.Year &nbsp;&nbsp;&nbsp;&nbsp; @Model.utakmica.vreme</label><label class="naziv-liga">@Model.utakmica.domacin - : - @Model.utakmica.gost</label></div>
+        </div>
+
+        <div class="forma">
+            <div class="information">
+                <label class="headlines"><b>Trenutno stanje rezervacija:</b></label>
+                <label>Broj slobodnih mesta na severnoj tribini: &nbsp; @Model.utakmica.bsm_sever</label>
+                <label>Cena karte na severnoj tribini: &nbsp; @Model.utakmica.cena_sever€</label>
+
+                <hr class="sidebar-divider d-none d-md-block col-11">
+
+                <label>Broj slobodnih mesta na južnoj tribini: &nbsp; @Model.utakmica.bsm_jug</label>
+                <label>Cena karte na južnoj tribini: &nbsp; @Model.utakmica.cena_jug€</label>
+
+                <hr class="sidebar-divider d-none d-md-block col-11">
+
+                <label>Broj slobodnih mesta na istočnoj tribini: &nbsp; @Model.utakmica.bsm_istok</label>
+                <label>Cena karte na istočnoj tribini: &nbsp; @Model.utakmica.cena_istok€</label>
+
+                <hr class="sidebar-divider d-none d-md-block col-11">
+
+                <label>Broj slobodnih mesta na zapadnoj tribini: &nbsp; @Model.utakmica.bsm_zapad</label>
+                <label>Cena karte na zapadnoj tribini: &nbsp; @Model.utakmica.cena_zapad€</label>
+            </div>
+
+            <div class="inputs">
+                <form method="post">
+                    <div class="podatak">
+                        <label class="headlines"><b>Izaberite željenu tribinu:</b></label>
+                        @{
+                            if (Model.utakmica.bsm_sever == 0)
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="sever-@Model.utakmica.cena_sever" asp-for="@Model.tribina_cena" disabled="disabled" />&nbsp;&nbsp;Sever</label>
+                            }
+                            else
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="sever-@Model.utakmica.cena_sever" asp-for="@Model.tribina_cena" />&nbsp;&nbsp;Sever</label>
+                            }
+                            if (Model.utakmica.bsm_jug == 0)
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="jug-@Model.utakmica.cena_jug" asp-for="@Model.tribina_cena" disabled="disabled" />&nbsp;&nbsp;Jug</label>
+                            }
+                            else
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="jug-@Model.utakmica.cena_jug" asp-for="@Model.tribina_cena" />&nbsp;&nbsp;Jug</label>
+                            }
+                            if (Model.utakmica.bsm_istok == 0)
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="istok-@Model.utakmica.cena_istok" asp-for="@Model.tribina_cena" disabled="disabled" />&nbsp;&nbsp;istok</label>
+                            }
+                            else
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="istok-@Model.utakmica.cena_istok" asp-for="@Model.tribina_cena" />&nbsp;&nbsp;istok</label>
+                            }
+                            if (Model.utakmica.bsm_zapad == 0)
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="zapad-@Model.utakmica.cena_zapad" asp-for="@Model.tribina_cena" disabled="disabled" />&nbsp;&nbsp;Zapad</label>
+                            }
+                            else
+                            {
+                                <label class="radio-label"><input type="radio" name="tribina_cena" value="zapad-@Model.utakmica.cena_zapad" asp-for="@Model.tribina_cena" />&nbsp;&nbsp;Zapad</label>
+                            }
+                        }
+                    </div>
+
+                    <div class="podatak">
+                        <label class="headlines"><b>Racun za uplatu:</b></label>
+                        <input type="text" name="racun" asp-for="@Model.racun" onkeydown="Potvrdi(this)" onchange="Potvrdi(this)"/>
+                    </div>
+
+                    <div class="potvrda">
+                        <button id="potvrdi" class="btn btn-success" asp-route-sport="@Model.utakmica.sport" asp-route-home="@Model.utakmica.domacin" asp-route-away="@Model.utakmica.gost" asp-route-date="@Model.utakmica.datum" asp-route-username="@Model.LogovaniKorisnik.username" disabled="disabled">Potvrdi</button>
+                        <a class="btn btn-warning" asp-route="/PocetnaZaKorisnika" asp-route-username="@Model.LogovaniKorisnik.username">Otkazi</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/rezervacija.js"></script>
+</body>

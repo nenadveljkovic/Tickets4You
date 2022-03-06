@@ -1,0 +1,65 @@
+﻿@page
+@model Tickets4You.Pages.MojeRezervacijeModel
+@{
+    ViewData["Title"] = "MojeRezervacije";
+    await Model.Korisnik();
+    await Model.Rezervacije();
+    ViewData["korisnik"] = Model.LogovaniKorisnik.username;
+}
+
+<head>
+    <link href="~/css/main.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+</head>
+
+<body>
+    <div id="lige">
+        <div class="container liga">
+            <div class="container2">
+                <div class="naziv-div"><label class="naziv-liga">Moje rezervacije</label></div>
+            </div>
+            <div class="utakmice">
+
+                @foreach (Models.Karta k in Model.karte)
+                {
+                    <div class="utakmica row">
+                        <div class="datum-vreme-div"><label class="datum-vreme">@k.datum</label></div>
+                        <div class="timovi col-2"><label class="home">@k.domacin</label> - <label class="away">@k.gost</label></div>
+                        <div class="cena">@k.cena evra</div>
+                        <div class="tribina">@k.tribina</div>
+                        <div>
+                            <a type="button" class="btn btn-warning" asp-route-username="@Model.LogovaniKorisnik.username" asp-route-serial_number="@k.serial_number" asp-route-sport="@k.sport" asp-route-domacin="@k.domacin" asp-route-gost="@k.gost" asp-route-datum="@k.datum" asp-page="/IzmenaRezervacije">Izmeni rezervaciju</a>
+                            <button id="@k.serial_number" type="button" class="btn btn-danger" data-toggle="modal" data-placement="right" title="Otkazi rezervaciju!" data-target="#deleteModal@{@k.serial_number;}">Otkaži rezervaciju</button>
+                        </div>
+                    </div>
+
+
+                    <hr class="sidebar-divider d-none d-md-block col-11">
+                    <div class="modal fade" id="deleteModal@{@k.serial_number;}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header odjava">
+                                    <h5 class="modal-title" id="exampleModalLabel">Potvrda otkazivanja rezervacije</h5>
+                                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">×</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body odjava">Da li ste sigurni da želite da otkažete rezervaciju?</div>
+                                <div class="modal-footer odjava">
+
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Otkaži</button>
+                                    <a class="btn btn-primary" asp-route-serial_number="@k.serial_number" asp-route-username="@Model.LogovaniKorisnik.username" asp-route-sport="@k.sport" asp-route-domacin="@k.domacin" asp-route-gost="@k.gost" asp-route-datum="@k.datum" asp-page-handler="Otkazi">Potvrdi</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+
+    </div>
+</body>
+

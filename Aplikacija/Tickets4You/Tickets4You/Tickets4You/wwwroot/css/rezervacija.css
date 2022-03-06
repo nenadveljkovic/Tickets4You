@@ -1,0 +1,110 @@
+﻿body {
+    overflow-x:hidden;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+.container2 {
+    padding-bottom: 1rem;
+    text-align: center;
+    justify-content: center;
+    width:70%;
+}
+
+.forma {
+    width:80%;
+    height:100%;
+}
+
+.naziv-div {
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 30px;
+    padding-top: 0.5rem;
+    display:flex;
+    flex-direction:row;
+}
+
+.datum-vreme {
+    font-size: xx-large;
+    width: 20%;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    padding-left: 10%;
+    white-space: nowrap;
+    text-align:center;
+}
+
+.naziv-liga {
+    font-size: xx-large;
+    width:70%;
+    justify-content:center;
+    align-content:center;
+}
+
+.headlines {
+    padding:0.3rem;
+    color:black;
+    float:left;
+    font-size:x-large;
+}
+
+.forma{
+    display:flex;
+    flex-direction:row;
+}
+
+.information {
+    display:flex;
+    flex-direction:column;
+    width:40%;
+    margin:10rem 10% 10rem 0.5rem;
+}
+
+.information label {
+    color:black;
+}
+
+.inputs {
+    margin:5rem 10rem;
+    padding:5rem;
+    width:50%;
+}
+
+form {
+    display:flex;
+    flex-direction:column;
+}
+
+.podatak {
+    display:flex;
+    flex-direction:column;
+}
+
+.radio-label {
+    vertical-align:central;
+    color:black;
+}
+
+.potvrda {
+    justify-content:center;
+    align-items:center;
+    padding:1rem 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    padding-right:10%;
+}

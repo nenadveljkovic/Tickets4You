@@ -1,0 +1,42 @@
+﻿@page
+@model Tickets4You.Pages.PreporuceneUtakmiceModel
+@{
+    ViewData["Title"] = "Preporucene Utakmice";
+    await Model.Korisnik();
+    await Model.Utakmice();
+    ViewData["korisnik"] = Model.LogovaniKorisnik.username;
+}
+
+<head>
+    <link href="~/css/index.css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+    <div id="lige">
+        @foreach (string sp in Model.sportovi)
+        {
+            <div class="container liga">
+                <div class="container2">
+                    <div class="naziv-div"><label class="naziv-liga">@sp</label></div>
+                </div>
+                <div class="utakmice">
+                    @foreach (Models.Utakmica u in Model.utakmice)
+                    {
+                        if (u.sport == sp)
+                        {
+                            <div class="utakmica row">
+                                <div class="datum-vreme-div col-3"><label class="datum-vreme">@u.datum.Day/@u.datum.Month/@u.datum.Year &nbsp;&nbsp;&nbsp;&nbsp; @u.vreme</label></div>
+                                <div class="timovi col-7"><label class="home">@u.domacin</label><label class="score"> - : - </label> <label class="away">@u.gost</label></div>
+                                <div class="omiljena col-1"><a class="rezervisi btn btn-primary" asp-page="/DodajRezervaciju" asp-route-sport="@u.sport" asp-route-home="@u.domacin" asp-route-away="@u.gost" asp-route-date="@u.datum" asp-route-username="@Model.LogovaniKorisnik.username">Rezerviši</a></div>
+                            </div>
+
+                            <hr class="sidebar-divider d-none d-md-block col-11">
+                        }
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</body>
